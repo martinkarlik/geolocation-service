@@ -1,2 +1,2 @@
 # Introduction
-Using Google's PlaNet model to make inference on custom images in Python.
+This script uses Google's PlaNet model to predict the geolocation of custom images in Python.
